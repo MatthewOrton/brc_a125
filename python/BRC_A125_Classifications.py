@@ -1,4 +1,4 @@
-import sys
+poop import sys
 sys.path.append('/Users/morton/Documents/GitHub/icrpythonradiomics/machineLearning')
 
 import numpy as np
